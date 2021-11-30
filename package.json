@@ -1,0 +1,19 @@
+{
+  "name": "arbre-structure-execution-celineb-camilleh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adatechschool/arbre-structure-execution-celineb-camilleh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adatechschool/arbre-structure-execution-celineb-camilleh/issues"
+  },
+  "homepage": "https://github.com/adatechschool/arbre-structure-execution-celineb-camilleh#readme"
+}
